@@ -1,0 +1,4 @@
+/home/code/Desktop/teamwork/build/CMakeFiles/myschedule.dir
+/home/code/Desktop/teamwork/build/CMakeFiles/edit_cache.dir
+/home/code/Desktop/teamwork/build/CMakeFiles/rebuild_cache.dir
+/home/code/Desktop/teamwork/build/CMakeFiles/myschedule_autogen.dir
